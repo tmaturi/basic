@@ -39,7 +39,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 # Links
 ## R
-- [The R Project for Statistical Computing](https://www.r-project.org)
+- [The R Project for Statistical Computing](https://www.r-project.org){:target="_blank"}
 - [RStudio](http://www.rstudio.com/){:target="_blank"}
 - [A Brief Guide to R for Beginners in Econometrics](http://homes.chass.utoronto.ca/~jmaheu/4050/R_intro.pdf){:target="_blank"}
 - [Econometrics in R](http://cran.r-project.org/doc/contrib/Farnsworth-EconometricsInR.pdf){:target="_blank"}
