@@ -66,5 +66,5 @@ Durham Work Group on Asset Management webpage
 
 ## Events
 - [Professor N. Balakrishnan Lecture Day, Durham, Nov 2018](http://tahanimaturi.com/events/Bala2018.html){:target="_blank"}
-- [1st UK Reliability Meeting, Durham, April 2019](http://www.maths.dur.ac.uk/stats/uk-reliability/)
-- [WPMSIIP, 9-13 September 2019](http://www.maths.dur.ac.uk/stats/wpmsiip2019/)
+- [1st UK Reliability Meeting, Durham, April 2019](http://www.maths.dur.ac.uk/stats/uk-reliability/){:target="_blank"}
+- [WPMSIIP, 9-13 September 2019](http://www.maths.dur.ac.uk/stats/wpmsiip2019/){:target="_blank"}
