@@ -61,7 +61,7 @@ Nonparametric Predictive Inference
 Survival Signatures for System Reliability
 Workshops on Principles and Methods of Statistical Inference with Interval Probability
 Mathematical Methods for Reliability
-Durham Work Group on Asset Management webpage
+Durham Work Group on Asset Management webpage. 5
 
 
 ## Events
