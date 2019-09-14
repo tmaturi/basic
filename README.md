@@ -1,40 +1,33 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/tmaturi/basic/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Biography
 
-### Markdown
+Dr Tahani Coolen-Maturi joined the Department of Mathematical Sciences as an Assistant Professor in September 2018, before that she was a Lecturer at Durham Business School for six years, and for one year a Lecturer at Kent Business School. She is a statistician with a BSc in Mathematics and MSc in Statistics, and she has a PhD in Statistics from Durham University (Department of Mathematical Sciences). She also has an MBA in Finance.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+She is interested in developing statistical methodologies for a variety of real applications, including finance, reliability and medical applications. Her teaching experience includes teaching mathematics, statistics, probability theory, econometrics and quantitative methods. She is a fellow of the Royal Statistical Society (RSS) and a fellow of the Higher Education Academy (HEA).
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Contact details
+Dr Tahani Coolen-Maturi
+Department of Mathematical Sciences
+Durham University, DH1 3LE
+Telephone: +44 (0) 191 33 41746
+Room number: CM114
+Email:  tahani.maturi [at] durham.ac.uk
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Teaching
+ 
+- Introduction to Mathematics and Statistics (MSc Finance and MSc Economics)
 
-[Link](url) and ![Image](src)
-```
+- Econometrics Methods (MSc Finance and MSc Economics)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Econometrics II (Financial database, MSc Finance)
 
-### Jekyll Themes
+- Econometrics help sessions (BSc Business & Finance)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tmaturi/basic/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Applied Econometrics (BSc Economics & Finance)
 
 
 ## Research Interests
