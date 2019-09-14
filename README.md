@@ -75,10 +75,10 @@ Nonparametric Predictive Inference, Nonparametric Statistics, Modeling dependenc
  
 ## To appear
  
-- M. Alabdulhadi, F.P.A. Coolen, T. Coolen-Maturi. Nonparametric predictive comparison of two diagnostic tests based on total numbers of correctly diagnosed individuals [preprint version].
-- T. Coolen-Maturi, F.P.A. Coolen, M. Alabdulhadi. Nonparametric predictive inference for diagnostic test thresholds. Communications in Statistics – Theory and Methods. [preprint version]
-- T. He, F.P.A. Coolen, T. Coolen-Maturi. Nonparametric Predictive Inference for European Option Pricing based on the Binomial Tree Model. Journal of the Operational Research Society. [preprint version]
-- T. Coolen-Maturi, F.P.A. Coolen. Nonparametric predictive inference for the validation of credit rating systems. Journal of the Royal Statistical Society: Series A. [preprint version] [R codes]
+- M. Alabdulhadi, F.P.A. Coolen, **T. Coolen-Maturi**. Nonparametric predictive comparison of two diagnostic tests based on total numbers of correctly diagnosed individuals [preprint version].
+- **T. Coolen-Maturi**, F.P.A. Coolen, M. Alabdulhadi. Nonparametric predictive inference for diagnostic test thresholds. Communications in Statistics – Theory and Methods. [preprint version]
+- T. He, F.P.A. Coolen, **T. Coolen-Maturi**. Nonparametric Predictive Inference for European Option Pricing based on the Binomial Tree Model. Journal of the Operational Research Society. [preprint version]
+- **T. Coolen-Maturi**, F.P.A. Coolen. Nonparametric predictive inference for the validation of credit rating systems. Journal of the Royal Statistical Society: Series A. [preprint version] [R codes]
  
 ### 2019
 - F. Marques, F.P.A. Coolen, T. Coolen-Maturi (2019). Approximations for the likelihood ratio statistic for hypothesis testing between two Beta distributions,  Journal of Statistical Theory and Practice,13:17. [preprint version]
