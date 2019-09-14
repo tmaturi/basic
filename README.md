@@ -8,12 +8,12 @@ She is interested in developing statistical methodologies for a variety of real 
 
 
 
-Contact details
-Dr Tahani Coolen-Maturi
-Department of Mathematical Sciences
-Durham University, DH1 3LE
-Telephone: +44 (0) 191 33 41746
-Room number: CM114
+Contact details  
+Dr Tahani Coolen-Maturi  
+Department of Mathematical Sciences  
+Durham University, DH1 3LE  
+Telephone: +44 (0) 191 33 41746  
+Room number: CM114  
 Email:  tahani.maturi [at] durham.ac.uk
 
 
