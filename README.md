@@ -29,7 +29,7 @@ Email:  tahani.maturi [at] durham.ac.uk
 
 - Applied Econometrics (BSc Economics & Finance)
 
-[Teaching](teaching.md)
+[Teaching](teaching.md) [Research](research.md) [Publications](publications.md)  [Links](links)
 
 ## Research Interests
 
